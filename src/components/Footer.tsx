@@ -12,9 +12,9 @@ export function Footer() {
           <div className="mb-6 md:mb-0">
             <div className="flex items-center space-x-2">
               <span className="text-2xl font-bold tracking-tight bg-gradient-to-r from-blue-500 to-indigo-500 bg-clip-text text-transparent">
-                KB
+                KKB
               </span>
-              <span className="font-medium">Kumsa Bayissa</span>
+              <span className="font-medium">Kumsa Kitessa</span>
             </div>
             <p className="mt-2 text-gray-400 text-sm">
               Flutter & Full-Stack Developer
@@ -23,7 +23,7 @@ export function Footer() {
           
           <div className="mb-6 md:mb-0">
             <p className="text-gray-400 text-sm">
-              &copy; {new Date().getFullYear()} Kumsa Bayissa. All rights reserved.
+              &copy; {new Date().getFullYear()} Kumsa Kitessa. All rights reserved.
             </p>
           </div>
           
